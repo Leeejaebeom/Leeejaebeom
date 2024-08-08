@@ -27,7 +27,7 @@
     </div>
     
 ## 📂 My Projects
-<a href="https://github.com/Leeejaebeom/-1-/main/README.md"></a>
+<a href="https://github.com/Leeejaebeom/-1-/README.md"></a>
 <!--
 **Leeejaebeom/Leeejaebeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
