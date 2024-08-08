@@ -28,7 +28,7 @@
     
 ## 📂 My Projects
 <a href="https://github.com/Leeejaebeom/one/README.md">
-<img src="https://img.shields.io/badge/wryd_movie-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/여행자들-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 <!--
 **Leeejaebeom/Leeejaebeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
