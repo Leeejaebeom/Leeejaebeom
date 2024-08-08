@@ -27,7 +27,7 @@
     </div>
     
 ## 📂 My Projects
-<a href="https://github.com/Leeejaebeom/one/README.md">
+<a href=https://github.com/Leeejaebeom/one/blob/master/README.md>
 <img src="https://img.shields.io/badge/여행자들-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 <!--
